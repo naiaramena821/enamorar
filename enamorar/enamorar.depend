@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1574864986 source:d:\ccomp1\enamorar\enamorar\src\enamorar.cpp
+	"Enamorar.h"
+	<fstream>
+	<iostream>
+
+1574864985 d:\ccomp1\enamorar\enamorar\include\enamorar.h
+
+1574832271 source:d:\ccomp1\enamorar\enamorar\main.cpp
+	<iostream>
+	<enamorar.h>
+
